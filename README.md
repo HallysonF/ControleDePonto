@@ -11,7 +11,7 @@ Repositório da  API Rest para controle de ponto e acesso dos usuários de uma e
 Faça o clone do projeto:
 
 ```bash
-$ git clone 
+$ git clone https://github.com/HallysonF/ControleDePonto 
 $ cd ControleDePonto
 ```
 ### Atualizações realizadas para o funcionamento
